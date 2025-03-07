@@ -1,0 +1,71 @@
+
+1. Two Sum  
+2. Best Time to Buy and Sell Stock  
+3. Contains Duplicate  
+4. Product of Array Except Self  
+5. Maximum Subarray  
+6. Maximum Product Subarray  
+7. Find Minimum in Rotated Sorted Array  
+8. Search in Rotated Sorted Array  
+9. Longest Substring Without Repeating Characters  
+10. Valid Anagram  
+
+---
+
+### **Linked List**
+11. Merge Two Sorted Lists  
+12. Reverse Linked List  
+13. Linked List Cycle  
+14. Remove Nth Node From End of List  
+15. Add Two Numbers  
+16. Intersection of Two Linked Lists  
+17. Palindrome Linked List  
+18. Delete Node in a Linked List  
+19. Middle of the Linked List  
+20. Remove Duplicates from Sorted List  
+
+---
+
+### **Stack & Queue**
+21. Valid Parentheses  
+22. Implement Queue using Stacks  
+23. Implement Stack using Queues  
+24. Min Stack  
+25. Next Greater Element I  
+26. Daily Temperatures  
+27. Evaluate Reverse Polish Notation  
+28. Decode String  
+29. Simplify Path  
+30. Design Circular Queue  
+
+---
+
+### **Binary Tree & BST**
+31. Invert Binary Tree  
+32. Maximum Depth of Binary Tree  
+33. Same Tree  
+34. Symmetric Tree  
+35. Binary Tree Level Order Traversal  
+36. Convert Sorted Array to Binary Search Tree  
+37. Path Sum  
+38. Diameter of Binary Tree  
+39. Lowest Common Ancestor of a BST  
+40. Balanced Binary Tree  
+
+---
+
+### **Sorting & Searching**
+41. Merge Sorted Array  
+42. First Bad Version  
+43. Search Insert Position  
+44. Find Peak Element  
+45. Guess Number Higher or Lower  
+
+---
+
+### **Dynamic Programming & Recursion**
+46. Climbing Stairs  
+47. House Robber  
+48. Maximum Depth of Binary Tree  
+49. Fibonacci Number  
+50. Coin Change  
