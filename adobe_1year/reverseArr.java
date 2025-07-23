@@ -14,6 +14,7 @@ public class reverseArr {
         System.out.println("Reversed Arra is");
         for (int i = arr1.length - 1; i >= 0; i--) {
             System.out.print(arr1[i] + " ");
-        }
+        } 
+        
     }
 }
